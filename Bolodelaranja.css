@@ -11,6 +11,9 @@ body{
     max-height: max-content;
     padding: 30px;
 }
+.bolo {
+    text-align: center ;
+}
 header{
     
     text-align: center;
